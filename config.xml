@@ -5,7 +5,7 @@ id = "com.phonegap.example1"
 versionCode = "10"
 version = "1.0.0">
 
-<!-- verdionCode is optinal and Android only -->
+<!-- versionCode is optinal and Android only -->
 
 <name>Aplicacion uno DATOSALUMNOS</name>
 
@@ -16,7 +16,7 @@ Aplicacion que muestra los DATOS del alumno
 <preference name ="phonegap-version" value="3.1.0" />
 
 <author href="https://build.phonegap.com" email="support@phonegap.com">
-Jose Angel Cordero Ocelo
+Jose Angel Cordero Oceloo
 </author>
 
 <gap:plugin name="org.apache.cordova.device" version="0.2.12" />
